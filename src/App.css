@@ -1,3 +1,30 @@
+.user-form{
+  margin-top: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-color: rgb(250, 232, 253);
+  height: 300px;
+  width: 500px;
+  box-shadow: 1px 1px 2px 2px rgb(180, 179, 179);
+  border-radius: 15px;
+  padding: 50px;
+}
+.btn-danger{
+  margin-top: 50px;
+}
+.btn-danger:hover{
+  background-color: rgb(247, 7, 215);
+  width: 100px;
+}
+.login-img img{
+  width: 500px;
+  height: 500px;
+  width: 100%;
+  margin-top: 50px;
+}
+.text-dark{
+  font-size: 26px;
+}
 .App {
   text-align: center;
 }
